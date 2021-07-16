@@ -1,4 +1,5 @@
-Hi! I'm Alex and I hope you find useful the repositories. Enjoy! 😉 
+Hi! I'm Alex and I hope you find useful the repositories. Enjoy! 😉
+
 Btw if you want to know more about me I filled the template:
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in all the things related to programming but specially web development.
