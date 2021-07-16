@@ -1,4 +1,4 @@
-Hi! I'm Alex and I hope you find useful the repositories. Enjoy! 😉
+Hi! I'm Alex and I hope you find useful my repositories. Enjoy them! 😉
 
 Btw if you want to know more about me I filled the template:
 - 👋 Hi, I’m Alex
